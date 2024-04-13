@@ -1,0 +1,28 @@
+html{
+    font-family: Verdana, sans-serif;
+    background: #ff65ed;
+}
+
+.find{
+    display: flex;
+    background: #fff;
+    border-bottom: 2px solid #000;
+}
+
+.find a{
+    color: #000;
+    text-decoration: none;
+}
+
+.find img{
+    width: 200px;
+}
+
+.findDetail img{
+    width: 200px;
+}
+
+.findDetail{
+    display: flex;
+    align-items: center;
+}
